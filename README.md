@@ -1,6 +1,6 @@
 # 复刻伯克利机器人项目指南
 
-![机器人示意图](https://via.placeholder.com/800x400.png/CCCCCC?text=机器人3D模型示意图)
+![机器人示意图]<img width="394" height="84" alt="image" src="https://github.com/user-attachments/assets/b46ae2e1-2333-4554-a01b-b80b3d89c439" />
 
 ## 📝 项目简介
 本项目基于伯克利开源机器人资料，提供**全流程硬件复刻方案**，涵盖模型适配、3D打印、机械组装、电子集成等关键环节，支持开发者快速实现机器人手臂及爪部的复刻与二次开发。通过模块化设计，可适配不同场景的定制化需求。
@@ -27,6 +27,6 @@
 - **协作规范**：遵循Google开源文档风格指南
 
 ---
-
 ## 🛠️ 使用方法
 ### 环境准备
+<img width="394" height="84" alt="image" src="https://github.com/user-attachments/assets/b46ae2e1-2333-4554-a01b-b80b3d89c439" />
