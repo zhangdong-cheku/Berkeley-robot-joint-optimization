@@ -1,13 +1,10 @@
 # CycloidalReducer100 - 高性能摆线减速器
 
-![公司横幅](https://via.placeholder.com/1200x400.png/007ACC/FFFFFF?text=Your+Company+Name+Robotics+Division) <!-- 请替换为实际的公司横幅图片，推荐尺寸 1200x400px -->
-![License](https://img.shields.io/badge/License-MIT-blue.svg) <!-- 许可证徽章，可使用 Shields.io 生成其他徽章 -->
-![GitHub contributors](https://img.shields.io/github/contributors/your-company/CycloidalReducer100)
-
 **English** | [中文](./README_CN.md) <!-- 可选的多语言支持 -->
 
 ## 🌟 公司简介
-**[您的公司名称]** 是一家专注于精密传动解决方案和机器人核心部件研发的高科技企业。我们拥有多年的设计制造经验，致力于为工业自动化、机器人、数控机床等领域提供高可靠性、高性能的减速器产品。团队由资深工程师和研究人员组成，具备从理论分析、仿真优化到精密制造的全流程能力。[8](@ref)
+**[青潮智科 (UntHub)]** 我们在构建下一代开发者经济生态
+【我们的愿景：解码未来十年的技术生产力】[8](@ref)
 
 ---
 
