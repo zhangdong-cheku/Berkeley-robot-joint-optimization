@@ -82,3 +82,48 @@
 
 ### 安装步骤
 1.  **获取模型**：
+
+模型文件位于 `models/` 目录下（提供 STEP 和 SLDPRT 格式）。
+
+2.  **机械安装**：
+*   确保安装面平整清洁。
+*   使用规定的螺栓（如 M8）和扭矩（**80 N·m**）紧固。
+*   保证输入轴与驱动电机轴、输出轴与负载轴的**同轴度**（建议 ≤ 0.03mm）。
+
+3.  **润滑**：
+*   首次使用前，加注适量的 **ISO VG 220** 工业齿轮油至油窗中线。
+*   每运行 2000 小时或一年后更换润滑油。
+
+更详细的安装、调试和维护指南，请参阅 [`docs/Assembly_Manual.pdf`](docs/Assembly_Manual.pdf)。
+
+---
+
+## 🤝 如何贡献
+我们热烈欢迎社区贡献！无论是报告 Bug、提出新功能建议，还是提交代码，都非常感谢。[1,8](@ref)
+
+1.  **Fork** 本项目。
+2.  创建您的特性分支 (`git checkout -b feature/AmazingFeature`)。
+3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)。
+4.  将分支推送到远程仓库 (`git push origin feature/AmazingFeature`)。
+5.  开启一个 **Pull Request**。
+
+请阅读 [`CONTRIBUTING.md`](CONTRIBUTING.md) 了解详细的贡献规范。
+
+---
+
+## 📄 许可证
+本项目采用 **MIT 许可证**。详情请见 [LICENSE](LICENSE) 文件。[1](@ref)
+
+**注意**：复刻或使用本项目时，请遵守原伯克利项目的相关许可证协议。
+
+---
+
+## 📞 联系我们
+*   🏢 **公司名称**：您的公司名称
+*   🌐 **公司官网**：[https://www.your-company.com](https://www.your-company.com)
+*   📧 **技术咨询**：tech-support@your-company.com
+*   📧 **项目负责人**：project-lead@your-company.com
+*   💬 **问题反馈**：建议通过 [GitHub Issues](https://github.com/your-company/CycloidalReducer100/issues) 提交，以便更好地跟踪和讨论。
+
+---
+**如果本项目对您有帮助，请给我们一个 ⭐️ Star 支持！**
