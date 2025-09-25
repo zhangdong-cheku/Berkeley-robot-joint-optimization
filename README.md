@@ -1,7 +1,5 @@
 # CycloidalReducer100 - 高性能摆线减速器
 
-## 🌟 欢迎学习爱好者加入讨论
-![](images1/QQ群.png)
 
 ## 🌟 点击图片查看视频
 [![青潮智科 (UntHub) 视频介绍](images1/680X386.jpg)](https://www.bilibili.com/video/BV1g6nszREnb)
@@ -11,23 +9,10 @@
 ## 🌟 实验环境
 ![](images/laboratory/0e9e103c25faf3078ac823be0567f433.png)
 ![](images/laboratory/856773a6a50c89b9fdde489812917bbd.png)
-## 🌟 项目开发计划
-![](images/project/49579d871c89c51a5eded5a93e57e05c.jpg)
-![](images/project/2fe7e8aaa63b7c0f9540e782488d4988.jpg)
-![](images/project/3392d53027cc09368d9e6c8406b213cf.jpg)
 
 
 ---
 
-## 📖 目录
-- [✨ 项目概述](#-项目概述)
-- [🚀 核心特性](#-核心特性)
-- [🛠️ 技术规格](#️-技术规格)
-- [📸 项目展示](#-项目展示)
-- [📦 安装与使用](#-安装与使用)
-- [🤝 如何贡献](#-如何贡献)
-- [📄 许可证](#-许可证)
-- [📞 联系我们](#-联系我们)
 
 ---
 
@@ -61,7 +46,6 @@
 | **防护等级**       | IP65                       | -                  |
 | **安装方式**       | 法兰安装                   | -                  |
 
-*(更详细的参数请查阅 `docs/Technical_Specification.pdf`)*
 
 ---
 
@@ -102,34 +86,8 @@
 *   首次使用前，加注适量的 **ISO VG 220** 工业齿轮油至油窗中线。
 *   每运行 2000 小时或一年后更换润滑油。
 
-更详细的安装、调试和维护指南，请参阅 [`docs/Assembly_Manual.pdf`](docs/Assembly_Manual.pdf)。
 
----
 
-## 🤝 如何贡献
-我们热烈欢迎社区贡献！无论是报告 Bug、提出新功能建议，还是提交代码，都非常感谢。
-
-1.  **Fork** 本项目。
-2.  创建您的特性分支 (`git checkout -b feature/AmazingFeature`)。
-3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)。
-4.  将分支推送到远程仓库 (`git push origin feature/AmazingFeature`)。
-5.  开启一个 **Pull Request**。
-
-请阅读 [`CONTRIBUTING.md`](CONTRIBUTING.md) 了解详细的贡献规范。
-
----
-
-## 📄 许可证
-本项目采用 **MIT 许可证**。详情请见 [LICENSE](LICENSE) 文件。
-
-**注意**：复刻或使用本项目时，请遵守原伯克利项目的相关许可证协议。
-
----
-
-## 📞 联系我们
-
-*   📧 **技术咨询**：897423273
-*   💬 **问题反馈**：建议通过QQ群提交，以便更好地跟踪和讨论。
 *   ![](images1/QQ群.png)
 
 ---
