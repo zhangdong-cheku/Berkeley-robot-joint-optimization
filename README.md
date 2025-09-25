@@ -5,11 +5,6 @@
 
 # UntHub 个人成长加速器 | Talent Discovery & Growth Platform
 
-![项目横幅](https://via.placeholder.com/1200x400.png/007ACC/FFFFFF?text=UntHub+Personal+Growth+Accelerator) <!-- 建议替换为实际项目横幅图 -->
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/UntHub-Accelerator)
-
-**English** | [中文](./README_CN.md) <!-- 可选多语言支持 -->
 
 ## 🌟 公司简介
 **[青潮智科 (UntHub)]** 我们在构建下一代开发者经济生态
