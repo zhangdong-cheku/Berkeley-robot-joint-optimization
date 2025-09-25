@@ -3,10 +3,8 @@
 **English** | [中文](./README_CN.md) <!-- 可选的多语言支持 -->
 
 
-# UntHub 个人成长加速器 | Talent Discovery & Growth Platform
-
-
 ## 🌟 公司简介
+# UntHub 个人成长加速器 | Talent Discovery & Growth Platform
 **[青潮智科 (UntHub)]** 我们在构建下一代开发者经济生态
 【我们的愿景：解码未来十年的技术生产力】[8](@ref)
 **UntHub 个人成长加速器** 是一个专注于**技术人才发掘与深度赋能**的开源生态平台。我们致力于构建一个连接全球顶尖技术专家与成长型开发者的网络，通过“链接技术节点”（Linking Expert Nodes）的核心模式，加速个人技术成长与职业发展[6](@ref)。
