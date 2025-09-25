@@ -61,11 +61,11 @@
 ![减速器整体外观]![CycloidalReducer100爆炸视图](images/cycloidal_reducer_100_exploded_view.png.png)<!-- 请替换为实际图片路径，并提供 alt 文本 -->
 *图：CycloidalReducer100 整机装配体，展现了紧凑的设计与精湛的工艺。*
 
-### 2. 爆炸视图
-### ![爆炸视图](images/cycloidal_reducer_100_exploded_view.png.png) <!-- 请替换为实际图片路径 -->
-### *图：减速器爆炸视图，清晰展示所有内部零件及其装配关系。*
+ 2. 爆炸视图
+ ![爆炸视图](images/cycloidal_reducer_100_exploded_view.png.png) <!-- 请替换为实际图片路径 -->
+ *图：减速器爆炸视图，清晰展示所有内部零件及其装配关系。*
 
-### 3. 应用场景
+ 3. 应用场景
 <!--  ![机器人关节应用](images/reducer_in_robot_arm.jpg)--> <!-- 请替换为实际图片路径 -->
 <!-- 图：CycloidalReducer100 应用于六轴工业机器人关节模组。*-->
 
