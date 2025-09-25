@@ -44,9 +44,9 @@
 ![](images/laboratory/0e9e103c25faf3078ac823be0567f433.png)<!--
 
 ## 🌟 项目开发
-![](images/project/49579d871c89c51a5eded5a93e57e05c.png)<!--
-![](images/project/2fe7e8aaa63b7c0f9540e782488d4988.png)<!--
-![](images/project/3392d53027cc09368d9e6c8406b213cf.png)<!--
+![](images/project/49579d871c89c51a5eded5a93e57e05c.jpg)<!--
+![](images/project/2fe7e8aaa63b7c0f9540e782488d4988.jpg)<!--
+![](images/project/3392d53027cc09368d9e6c8406b213cf.jpg)<!--
 
 
 ---
