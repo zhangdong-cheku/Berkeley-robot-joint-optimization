@@ -59,7 +59,7 @@
 **精美的图片是吸引关注的关键**[3,8](@ref)。
 
 ### 1. 整体外观
-![减速器整体外观]![CycloidalReducer100爆炸视图]（images/cycloidal_reducer_100_exploded_view.png.png）<!-- 请替换为实际图片路径，并提供 alt 文本 -->
+![减速器整体外观]![CycloidalReducer100爆炸视图](images/cycloidal_reducer_100_exploded_view.png)<!-- 请替换为实际图片路径，并提供 alt 文本 -->
 *图：CycloidalReducer100 整机装配体，展现了紧凑的设计与精湛的工艺。*
 
 ### 2. 爆炸视图
