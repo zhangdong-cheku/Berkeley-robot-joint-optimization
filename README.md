@@ -2,7 +2,7 @@
 
 **English** | [中文](./README_CN.md) <!-- 可选的多语言支持 -->
 ## 🌟 点击图片查看视频
-[![青潮智科 (UntHub) 视频介绍](images1/32e781131f8aeee47c72ef6855098e4e.jpg)](https://www.bilibili.com/video/BV1E2nxzzE8k)
+[![青潮智科 (UntHub) 视频介绍](images1/32e781131f8aeee47c72ef6855098e4e.jpg)](https://www.bilibili.com/video/BV1g6nszREnb)
 
 ## 🌟 公司简介
 # UntHub 个人成长加速器 | Talent Discovery & Growth Platform
