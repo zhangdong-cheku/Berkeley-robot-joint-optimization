@@ -38,6 +38,10 @@
 ## 🌟 导师简介
 
 ## 🌟 实验环境
+(images/laboratory/0e9e103c25faf3078ac823be0567f433.png)
+(images/cycloidal_reducer_100_exploded_view.png.png)<!
+![](images/laboratory/0e9e103c25faf3078ac823be0567f433.png)<!--
+
 ---
 
 ## 📖 目录
