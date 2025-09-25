@@ -36,8 +36,8 @@
 
 ##     团队介绍
 ## 🌟 导师简介
-![](images/team/9af9a34364f2d6906f9ce5a76cd17728.png)<!--
-![](images/team/250c74cfa8658368c13a1646a05376d6.png)<!--
+![](images/team/9af9a34364f2d6906f9ce5a76cd17728.png)
+![](images/team/250c74cfa8658368c13a1646a05376d6.png)
 ## 🌟 实验环境
 ![](images/laboratory/856773a6a50c89b9fdde489812917bbd.png)<!--
 ![](images/laboratory/0e9e103c25faf3078ac823be0567f433.png)<!--
