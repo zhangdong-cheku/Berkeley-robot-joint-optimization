@@ -1,5 +1,7 @@
 # CycloidalReducer100 - 高性能摆线减速器
 
+## 🌟 欢迎学习爱好者加入讨论
+![](images/QQ群.png)
 
 ## 🌟 点击图片查看视频
 [![青潮智科 (UntHub) 视频介绍](images1/680X386.jpg)](https://www.bilibili.com/video/BV1g6nszREnb)
