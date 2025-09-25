@@ -19,7 +19,7 @@
 - [📞 联系我们](#-联系我们)
 
 ---
-（images/cycloidal_reducer_100_exploded_view.png.png）
+
 ![CycloidalReducer100爆炸视图](images/cycloidal_reducer_100_exploded_view.png)
 ## ✨ 项目概述
 **CycloidalReducer100** 是我公司基于伯克利开源机器人项目中的摆线传动方案，进行深度优化与复刻的高精度减速器。它采用经典的摆线针轮啮合原理，具备**高扭矩密度、零背隙、长寿命**等优点，专为机器人关节、精密转台、自动化设备等对传动性能要求极高的场景设计。
@@ -59,7 +59,7 @@
 **精美的图片是吸引关注的关键**[3,8](@ref)。
 
 ### 1. 整体外观
-![减速器整体外观]![CycloidalReducer100爆炸视图](images/cycloidal_reducer_100_exploded_view.png)<!-- 请替换为实际图片路径，并提供 alt 文本 -->
+![减速器整体外观]![CycloidalReducer100爆炸视图]（images/cycloidal_reducer_100_exploded_view.png.png）<!-- 请替换为实际图片路径，并提供 alt 文本 -->
 *图：CycloidalReducer100 整机装配体，展现了紧凑的设计与精湛的工艺。*
 
 ### 2. 爆炸视图
