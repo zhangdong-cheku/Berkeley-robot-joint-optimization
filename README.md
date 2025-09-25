@@ -1,7 +1,7 @@
 # CycloidalReducer100 - 高性能摆线减速器
 
 **English** | [中文](./README_CN.md) <!-- 可选的多语言支持 -->
-## 🌟 点击图片视频介绍
+## 🌟 点击图片查看视频
 [![青潮智科 (UntHub) 视频介绍](images/shipfengmian.png.png)](https://www.bilibili.com/video/BV1E2nxzzE8k)
 
 ## 🌟 公司简介
