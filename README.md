@@ -2,7 +2,7 @@
 
 
 ## 🌟 点击图片查看视频
-[![青潮智科 (UntHub) 视频介绍](images1/32e781131f8aeee47c72ef6855098e4e.jpg)](https://www.bilibili.com/video/BV1g6nszREnb)
+[![青潮智科 (UntHub) 视频介绍](images1/680X386.jpg)](https://www.bilibili.com/video/BV1g6nszREnb)
 
 
 
