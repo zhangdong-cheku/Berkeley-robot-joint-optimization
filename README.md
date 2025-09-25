@@ -1,7 +1,7 @@
 # CycloidalReducer100 - 高性能摆线减速器
 
 **English** | [中文](./README_CN.md) <!-- 可选的多语言支持 -->
-[![CycloidalReducer100 工作原理演示](images/shipfengmian.png)](https://www.bilibili.com/video/BV1E2nxzzE8k)
+[![CycloidalReducer100 工作原理演示](images/shipfengmian.png.png)](https://www.bilibili.com/video/BV1E2nxzzE8k)
 
 ## 🌟 公司简介
 # UntHub 个人成长加速器 | Talent Discovery & Growth Platform
