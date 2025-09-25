@@ -39,11 +39,11 @@
 ![](images/team/9af9a34364f2d6906f9ce5a76cd17728.png)
 ![](images/team/250c74cfa8658368c13a1646a05376d6.png)
 ## 🌟 实验环境
-![](images/laboratory/856773a6a50c89b9fdde489812917bbd.png)<!--
-![](images/laboratory/0e9e103c25faf3078ac823be0567f433.png)<!--
+![](images/laboratory/856773a6a50c89b9fdde489812917bbd.png)
+![](images/laboratory/0e9e103c25faf3078ac823be0567f433.png)
 ## 🌟 项目开发
-![](images/project/49579d871c89c51a5eded5a93e57e05c.jpg)<!--
-![](images/project/2fe7e8aaa63b7c0f9540e782488d4988.jpg)<!--
+![](images/project/49579d871c89c51a5eded5a93e57e05c.jpg)
+![](images/project/2fe7e8aaa63b7c0f9540e782488d4988.jpg)
 ![](images/project/3392d53027cc09368d9e6c8406b213cf.jpg)
 
 ---
