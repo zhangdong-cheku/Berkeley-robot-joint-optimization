@@ -1,4 +1,4 @@
-# CycloidalReducer100 - 高性能摆线减速器
+# Berkeley robot joint optimization - 高性能摆线减速器
 
 
 ##  点击图片查看视频
