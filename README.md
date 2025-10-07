@@ -83,7 +83,7 @@
 ## 加入交流群
 扫一扫，加入QQ群，一起手搓机器人
 
-![QQ群二维码](https://example.com/qq_group_qrcode.png "扫码加入QQ群")
+![QQ群](zhangdong-cheku/Berkeley-robot-joint-optimization/blob/main/QQ群.png)
 
 
 ---
