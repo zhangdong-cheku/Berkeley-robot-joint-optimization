@@ -47,8 +47,8 @@
 
 
 ### 1. 整体外观
-![CycloidalReducer100爆炸视图](images/cycloidal_reducer_100_exploded_view.png.png)<!-- 请替换为实际图片路径，并提供 alt 文本 -->
-*图：CycloidalReducer100 整机装配体，展现了紧凑的设计与精湛的工艺。*
+![Berkeley robot joint optimization爆炸视图](images/cycloidal_reducer_100_exploded_view.png.png)<!-- 请替换为实际图片路径，并提供 alt 文本 -->
+*图：Berkeley robot joint optimization 整机装配体，展现了紧凑的设计与精湛的工艺。*
 
  <!--2. 爆炸视图-->
  <!--![爆炸视图](images/cycloidal_reducer_100_exploded_view.png.png) --><!-- 请替换为实际图片路径 -->
