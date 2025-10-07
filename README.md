@@ -83,7 +83,7 @@
 ## 加入交流群
 扫一扫，加入QQ群，一起手搓机器人
 
-![QQ群](zhangdong-cheku/Berkeley-robot-joint-optimization/blob/main/QQ群.png)
+![](QQ群.png)
 
 
 ---
